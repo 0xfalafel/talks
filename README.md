@@ -6,4 +6,4 @@ This repository keeps the slides for the talks I have done.
 | -------------------------------- | ------------------ | -------------- |
 | Make better shells with __rcat__ | Pass The Salt 2025 | Upcomming      |
 | Hextazy                          | Rump - LeHack 2024 | slides - video |
-| Bypassing Defender is easy       | Rump - LeHack 2024 | slides         |
+| Bypassing Defender is easy       | Rump - LeHack 2024 | [slides](./LeHack_2024/Bypassing%20Defender%20is%20easy.pdf) |
